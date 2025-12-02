@@ -26,7 +26,6 @@
 <a href="https://linkedin.com/in/sharmajiisumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmajiisumit" height="30" width="40" /></a>
 <a href="https://instagram.com/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
-<a href="https://discord.gg/sharmajisumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharmajisumit" height="30" width="40" /></a>
 </p>
 <br>
 
