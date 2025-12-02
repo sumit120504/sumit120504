@@ -8,6 +8,9 @@
 - 📫 How to reach me **sumitsharma120504@gmail.com**
 
 # Connect with me :)
+<p align="right">![ninja](https://raw.githubusercontent.com/sumit120504/sumit120504/main/assets/gifs/ninja.gif)
+</p>
+
 <p align="left">
 <a href="https://dev.to/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
 <a href="https://twitter.com/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
