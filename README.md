@@ -54,9 +54,9 @@
 # 📊 GitHub Stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://sumit120504.github.io/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://sumit120504.github.io/snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://sumit120504.github.io/snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://sumit120504.github.io/sumit120504/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://sumit120504.github.io/sumit120504/snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://sumit120504.github.io/sumit120504/snake-light.svg">
 </picture>
 
 
