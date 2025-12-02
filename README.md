@@ -17,8 +17,9 @@
 
 <p align="left">🔭 I’m currently working on <a href="https://github.com/sumit120504/AI_Model_MarketPlace">AI Model Marketplace</a><br><br>🌱 I’m currently learning <b>react, tailwind</b><br><br>📫 How to reach me <a href="mailto:sumitsharma120504@gmail.com">sumitsharma120504@gmail.com</a></p>
 
+<br clear="both">
 
-# Connect with me :)
+## Connect with me :)
 
 <p align="left">
 <a href="https://dev.to/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
@@ -29,9 +30,7 @@
 </p>
 <br>
 
-# 💻 Tech Stack:
-<br clear="both">
-
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -61,11 +60,9 @@
 </div>
 
 ###
+<br clear="both">
 
-# 📊 GitHub Stats:
-
-###
-
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
