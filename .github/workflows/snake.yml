@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs twice a day
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,13 +21,14 @@ jobs:
         with:
           github_user_name: sumit120504
           outputs: |
-            dist/snake_light.svg
-            dist/snake_dark.svg?palette=github-dark
+            snake-light.svg
+            snake-dark.svg?palette=github-dark
 
-      - name: Upload to GitHub Pages
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: .
+          # Uploads everything in the repo root including SVGs
 
   deploy:
     needs: build
@@ -35,7 +36,7 @@ jobs:
       pages: write
       id-token: write
     runs-on: ubuntu-latest
-    steps:
-      - name: Deploy
-        uses: actions/deploy-pages@v4
 
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
