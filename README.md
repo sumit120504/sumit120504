@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [AI Model Marketplace](https://github.com/sumit120504/AI_Model_MarketPlace)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://sumit120504.github.io/sumit120504/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://sumit120504.github.io/sumit120504/snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://sumit120504.github.io/sumit120504/snake-light.svg">
+</picture>
 
-- 🌱 I’m currently learning **react, tailwind**
 
-- 📫 How to reach me **sumitsharma120504@gmail.com**
+
+###
+
+<img align="right" src="https://raw.githubusercontent.com/sumit120504/sumit120504/main/assets/gifs/giphy.gif" alt="giphy" width="200"/>
+
+###
+
+<p align="left">🔭 I’m currently working on <a href="https://github.com/sumit120504/AI_Model_MarketPlace">AI Model Marketplace</a><br><br>🌱 I’m currently learning <b>react, tailwind</b><br><br>📫 How to reach me <a href="mailto:sumitsharma120504@gmail.com">sumitsharma120504@gmail.com</a></p>
+
 
 # Connect with me :)
-<p align="right">![ninja](https://raw.githubusercontent.com/sumit120504/sumit120504/main/assets/gifs/ninja.gif)
-</p>
 
 <p align="left">
 <a href="https://dev.to/sharmajii_sumit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharmajii_sumit" height="30" width="40" /></a>
@@ -56,18 +65,13 @@
 
 # 📊 GitHub Stats:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://sumit120504.github.io/sumit120504/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://sumit120504.github.io/sumit120504/snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://sumit120504.github.io/sumit120504/snake-light.svg">
-</picture>
-
-
 ###
 
 ![](https://github-readme-stats.vercel.app/api?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumit120504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
