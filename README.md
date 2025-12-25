@@ -62,10 +62,17 @@
 ###
 <br clear="both">
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<!-- Light Mode -->
+![](https://github-readme-stats.vercel.app/api?username=sumit120504&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only)
+![](https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=default&hide_border=false#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+
+<!-- Dark Mode -->
+![](https://github-readme-stats.vercel.app/api?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![](https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only)
 
 
 
