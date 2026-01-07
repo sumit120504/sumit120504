@@ -66,20 +66,6 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=sumit120504&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=sumit120504&theme=default&hide_border=false&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sumit120504&theme=default&hide_border=false&include_all_commits=true&count_private=true"
-  />
-</picture>
-
-<picture>
-  <source 
     srcset="https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
@@ -92,23 +78,11 @@
   />
 </picture>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=dark&hide_border=false&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=default&hide_border=false&layout=compact"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit120504&theme=default&hide_border=false&layout=compact"
-  />
-</picture>
-
-
-
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumit120504&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-trophies.vercel.app/?username=sumit120504&theme=radical&no-frame=true&margin-w=8)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sumit120504&theme=github-dark)
 
