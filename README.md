@@ -62,22 +62,6 @@
 ###
 <br clear="both">
 
-## 📊 GitHub Stats
-
-<picture>
-  <source 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=dark&hide_border=false"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=default&hide_border=false"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=sumit120504&theme=default&hide_border=false"
-  />
-</picture>
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=sumit120504&theme=radical&no-frame=true&margin-w=8)
